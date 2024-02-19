@@ -1,0 +1,9 @@
+Given an array of integers and a number n, your task is to find all occurrences of elements in the array that are less than or equal to n.
+
+You need to implement a function solution_2(data, n) that takes two parameters:
+
+- data: a list of integers.
+- n: an integer.
+
+The function should return a list containing all elements from the input data where the count of the element is less than or equal to n.
+
